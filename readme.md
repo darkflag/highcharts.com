@@ -1,3 +1,4 @@
+this is a fork of original repo in https://github.com/highslide-software/highcharts.com/
 #Highcharts JS
 Highcharts JS is a JavaScript charting library based on SVG and VML rendering.
 
